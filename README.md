@@ -6,6 +6,8 @@ Hello, I'm @TomSaliba, I'm a Consulting Actuary.
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
+<details>
+ <summary> Time spend coding </summary>
 In terms of time spent coding, here's an overview
 
 | Rank | THING-TO-RANK |
@@ -13,3 +15,9 @@ In terms of time spent coding, here's an overview
 |SAS   |  8 years      |
 |     R|  5 years      |
 |   SQL|  10 years     |
+
+</details>
+
+---
+> WHen you're going through hell, keep going
+> - Winston Churchill
