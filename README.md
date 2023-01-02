@@ -1,4 +1,4 @@
-Hello, I'm @TomSaliba
+Hello, I'm @TomSaliba, I'm a Consulting Actuary.
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset=https://cdn.website-editor.net/a79103d4e5e4472bb0c6a5bbaec62ce9/dms3rep/multi/Color+logo+with+background.svg>
